@@ -3,3 +3,11 @@
 # azure-monitor-opentelemetry 
 
 azure-functions
+requests
+pandas
+google-auth
+google-auth-httplib2
+google-api-python-client
+
+gspread
+
