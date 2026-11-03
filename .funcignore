@@ -1,0 +1,13 @@
+
+
+.git*
+.vscode
+local.settings.json
+test
+__pycache__
+env
+.venv
+dist
+
+# קובצי מפתחות והרשאות
+creds-auto.json
